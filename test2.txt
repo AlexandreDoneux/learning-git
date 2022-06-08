@@ -5,3 +5,8 @@ Ceci fait partie de la branch2
 
 
 Promis on va faire un merge.
+
+Ceci fait partie de la branch4.
+
+
+On va bientot merge branch3 et branch4
