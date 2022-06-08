@@ -7,3 +7,6 @@ Et une quatrième.
 
 Paragraphe de la branche 2.
 On va tester un rebase après.
+
+Paragraphe branch 3.
+Voyons comment il s'en sort.
