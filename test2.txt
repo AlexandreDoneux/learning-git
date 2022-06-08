@@ -1,2 +1,4 @@
 Ceci est le deuxième fichier de test.
 Faison un git fetch pour voir ce que ça fait.
+
+Ceci fait partie de la branch4.
