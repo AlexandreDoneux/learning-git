@@ -3,3 +3,7 @@ Ceci est une deuxième ligne.
 Une c'est incrustée !
 Ceci une troisième.
 Et une quatrième.
+
+
+Paragraphe de la branche 2.
+On va tester un rebase après.
